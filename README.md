@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Dippone
+- 👀 I'm interested in the world of scripting
+- 🌱 I'm currently learning html, css
+- 💞️ At the moment I'm trying to learn more and more.
